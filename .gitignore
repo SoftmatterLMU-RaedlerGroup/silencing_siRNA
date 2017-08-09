@@ -3,6 +3,9 @@ include/
 lib/
 lib64
 pip-selfcheck.json
+.ipynb_checkpoints/
+__pycache__/
 share/
 out/
 *~
+

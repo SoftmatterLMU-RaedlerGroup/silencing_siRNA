@@ -42,5 +42,5 @@ Open the URL displayed on your console in your web browser to access the noteboo
 When you have finished working on the notebooks, you can deactivate the virtual environment:
 
 ```bash
-source bin/deactivate
+deactivate
 ```

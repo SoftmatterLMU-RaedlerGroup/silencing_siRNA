@@ -25,6 +25,10 @@ source bin/activate
     ```
 pip install -r requirements.txt
     ```
+1. Activate `ipywidgets`:
+    ```
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
+    ```
 
 ### Usage
 To view (and change) the jupyter notebooks in this project, first activate the virtual environment:

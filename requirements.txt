@@ -6,3 +6,4 @@ jupyter
 pandas
 xlrd
 ipywidgets
+scikit-learn

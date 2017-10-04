@@ -7,3 +7,5 @@ pandas
 xlrd
 ipywidgets
 scikit-learn
+sympy
+

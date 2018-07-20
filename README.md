@@ -8,29 +8,24 @@ This installation guide assumes a functioning Python3.6 setup with `pip` install
 
 1. Clone/download the project.
 1. Create a new virtual environment inside the project base folder (denoted as `<TARGET>`):
-
     ```
-python -m venv <TARGET>
+    python -m venv <TARGET>
     ```
 1. Enter the `<TARGET>` directory, if not done yet:
-
     ```
-cd <TARGET>
+    cd <TARGET>
     ```
 1. Activate the virtual environment:
-
     ```
-source bin/activate
+    source bin/activate
     ```
 1. Install the required Python modules:
-
     ```
-pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
 1. Activate `ipywidgets`:
-
     ```
-jupyter nbextension enable --py widgetsnbextension --sys-prefix
+    jupyter nbextension enable --py widgetsnbextension --sys-prefix
     ```
 
 ### Usage

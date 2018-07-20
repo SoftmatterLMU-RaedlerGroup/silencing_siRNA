@@ -2,7 +2,7 @@
 This project contains Python code for analyzing the siRNA knockdown data in the `data` directory.
 
 ### Installation
-This installation guide assumes a functioning Python3.6 setup with `pip` and `virtualenv` installed. To set up the project on your computer, follow these steps:
+This installation guide assumes a functioning Python3.6 setup with `pip` installed. To set up the project on your computer, follow these steps:
 
 1. Clone/download the project.
 1. Create a new virtual environment inside the project base folder (denoted as `<TARGET>`):

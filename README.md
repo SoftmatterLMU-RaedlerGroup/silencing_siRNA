@@ -1,4 +1,5 @@
 ## siRNA knockdown
+[![DOI](https://zenodo.org/badge/141714508.svg)](https://zenodo.org/badge/latestdoi/141714508)
 This project contains Python code for analyzing the siRNA knockdown data in the `data` directory.
 
 ### Installation

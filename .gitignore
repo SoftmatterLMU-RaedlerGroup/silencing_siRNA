@@ -7,7 +7,9 @@ pip-selfcheck.json
 .ipynb_checkpoints/
 __pycache__/
 share/
-out/
 *~
 *.pickled
+out/*
+!out/2018-03-01–131034_fixed_fit_results.pickled
+
 
